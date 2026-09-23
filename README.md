@@ -2,6 +2,12 @@
 
 REST API for a full-stack MERN inventory management application. Handles authentication, products, categories, stock movement tracking and dashboard analytics.
 
+🔗 **Live API**: https://inventory-management-system-backend-wm6i.onrender.com
+📦 **Live App**: https://inventory-managements-system.netlify.app/
+💻 **Frontend Repo**: https://github.com/SathiyamoorthiSowmiya/inventory-management-system-frontend
+
+> Hosted on Render's free tier — the server sleeps after inactivity, so the first request after a while may take 30-50s to wake up.
+
 ## Tech Stack
 
 - Node.js + Express.js
